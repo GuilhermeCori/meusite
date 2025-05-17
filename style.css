@@ -16,7 +16,7 @@ body::before{
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(9px);
-    background-image: url('../Images/Background.jpeg');
+    background-image: url('Background.jpeg');
     z-index: -1;
     opacity: 0.7;
 }
